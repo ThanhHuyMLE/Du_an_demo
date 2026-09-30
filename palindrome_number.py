@@ -1,1 +1,6 @@
-print("Lưu Minh Hoà đẹp trai khoai to")
+print("Lưu Minh Hoà đẹp trai khoai to hơn Lê Thanh Huy")
+print("Lưu Minh Hoà đẹp trai khoai to hơn Lê Thanh Huy")
+print("Lưu Minh Hoà đẹp trai khoai to hơn Lê Thanh Huy")
+print("Lưu Minh Hoà đẹp trai khoai to hơn Lê Thanh Huy")
+print("Lưu Minh Hoà đẹp trai khoai to hơn Lê Thanh Huy")
+print("Lê Thanh Huy béo trai khoai nhỏ hơn Lưu Minh Hoà")
