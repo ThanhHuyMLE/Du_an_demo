@@ -1,0 +1,1 @@
+print("Lưu Minh Hoà đẹp trai khoai to")
